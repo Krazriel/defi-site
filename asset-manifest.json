@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/krazriel.github.io/defi-site/static/css/main.dbbde4d6.css",
+    "main.js": "/krazriel.github.io/defi-site/static/js/main.e73276da.js",
+    "static/media/trade.png": "/krazriel.github.io/defi-site/static/media/trade.a2c09083fbde76e9cac2.png",
+    "static/media/hero-img.png": "/krazriel.github.io/defi-site/static/media/hero-img.66b9eb77caa3ac6d4fe8.png",
+    "index.html": "/krazriel.github.io/defi-site/index.html",
+    "main.dbbde4d6.css.map": "/krazriel.github.io/defi-site/static/css/main.dbbde4d6.css.map",
+    "main.e73276da.js.map": "/krazriel.github.io/defi-site/static/js/main.e73276da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbbde4d6.css",
+    "static/js/main.e73276da.js"
+  ]
+}
