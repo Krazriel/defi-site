@@ -50,17 +50,18 @@
         flex-direction: column;
         justify-content: start;
         top: 90px;
-        right: -100%;
         width: 50%;
+        right: 0;
         height: 100vh;
         transition: 0.4s;
         z-index: 2;
         background: #fff;
         border-left: 1px solid #eee;
+        display: none;
     }
 
     .nav-menu.active{
-        right: 0;
+        display: flex;
     }
 
     .nav-menu li{
